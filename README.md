@@ -15,3 +15,12 @@ restaurante -
 
 
 semaforo - 
+
+[Semaforo](https://github.com/user-attachments/files/16197667/Semaforoformyangel.zip)
+
+
+poligno -
+
+[Poligno](https://github.com/user-attachments/files/16197695/Poligono.zip)
+
+
